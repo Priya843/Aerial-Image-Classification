@@ -25,7 +25,7 @@ The project also explores preprocessing steps, transfer learning, and domain-spe
 </ul>
 <hr>
 <h1>Proposed Design</h1>
-<img src="pd.png" alt="Proposed Design" width="500" height="300">
+<img src="proposed_design.png" alt="Proposed Design" width="500" height="300">
 <hr>
 <h1>Testing and Results</h1>
 <h2>Training vs. Validation Loss</h2>
